@@ -12,7 +12,7 @@ Only repositories listed on the [Intigriti program page](https://app.intigriti.c
 
 If you discover a vulnerability in a repository not listed on the Intigriti page, we still encourage you to report it. While such findings are not eligible for monetary rewards, we value your contribution to the security of our open-source projects.
 
-Please send any ineligible findings to [security@digitalocean.com](mailto:security@digitalocean.com). If you wish to encrypt your communication, follow [these instructions](https://github.com/digitalocean/security).
+**Please do not open public issues describing vulnerabilities.** Instead, send any ineligible findings to [security@digitalocean.com](mailto:security@digitalocean.com). If you wish to encrypt your communication, follow [these instructions](https://github.com/digitalocean/security).
 
 **Guidelines**
 
