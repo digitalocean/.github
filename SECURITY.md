@@ -8,7 +8,7 @@ We operate a public bug bounty program on [Intigriti](https://app.intigriti.com/
 
 **In-Scope Repositories**
 
-Only repositories listed on the [Intigriti program page](https://app.intigriti.com/programs/digitalocean/digitalocean/detail) are eligible for rewards under the bug bounty program.
+Only repositories listed as in-scope on the [Intigriti program page](https://app.intigriti.com/programs/digitalocean/digitalocean/detail) are eligible for rewards under the bug bounty program. A significant increase in invalid, AI-generated report submissions distracting from valid, impactful reports has led us to keep all our open-source repos out of scope at the current time.
 
 If you discover a vulnerability in a repository not listed on the Intigriti page, we still encourage you to report it. While such findings are not eligible for monetary rewards, we value your contribution to the security of our open-source projects.
 
